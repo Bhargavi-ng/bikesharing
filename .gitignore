@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Big data source files
+Resources/Citi_bike_dt.csv
+Resources/201908-citibike-tripdata.csv
+
 # C extensions
 *.so
 
