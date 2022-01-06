@@ -45,7 +45,7 @@ Complete code can be found here [Link to file](https://github.com/Bhargavi-ng/bi
 #### Bike Utilization - Number of Rides per Bike ID
 ![Bike Utilization - Number of Rides](https://github.com/Bhargavi-ng/bikesharing/blob/main/Resources/Bike_UT_Number_of_Rides.PNG)
 
-### Deliverable 3: Create a story using in Tableau
+### Deliverable 3: Create a story using key findings in Tableau
 #### Key findings:
 1. Subscribers User Type forms the majority (81%) of the customers.
 2. 65% of the customers (rides taken) are male.
