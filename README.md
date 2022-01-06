@@ -39,10 +39,10 @@ Complete code can be found here [Link to file](https://github.com/Bhargavi-ng/bi
 #### Top Start and End locations Dashboard
 ![Top Start and End locations](https://github.com/Bhargavi-ng/bikesharing/blob/main/Resources/Top_Starting_Ending_Locations_Dashboard.PNG)
 
-#### Bike Utilization - Trip Duration
+#### Bike Utilization - Trip Duration per Bike ID
 ![Bike Utilization - Trip Duration](https://github.com/Bhargavi-ng/bikesharing/blob/main/Resources/Bike_UT_Trip_Duration.PNG)
 
-#### Bike Utilization - Number of Rides
+#### Bike Utilization - Number of Rides per Bike ID
 ![Bike Utilization - Number of Rides](https://github.com/Bhargavi-ng/bikesharing/blob/main/Resources/Bike_UT_Number_of_Rides.PNG)
 
 ### Deliverable 3: Create a story using in Tableau
@@ -54,7 +54,7 @@ Complete code can be found here [Link to file](https://github.com/Bhargavi-ng/bi
 5. Peak trip duration is 5 minutes. And for rides in the range of 2 to 13 minutes have atleast 80k users.
 6. 99% of the rides are less than 60 minutes.
 7. Manhattan has the most start and end locations. Manhattan has both companies as well as tourist destinations. So this data doesn't help us identify if residents or tourists are major users.
-8. There are only few bikes that get rented for longer duration when compared to the number of times a bike is rented.
+8. There are only few bikes that get rented for longer duration when compared to the number of times a bike is rented. So there are some outliers in Trip Duration per Bike ID.
 
 #### Link to Tableau
 [Link to Tableau Story](https://public.tableau.com/app/profile/bhargavi2379/viz/Bike_Sharing_Analysis_Proposal/BikeSharingBusinessProposal)
