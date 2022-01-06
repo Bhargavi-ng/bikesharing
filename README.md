@@ -46,6 +46,17 @@ Complete code can be found here [Link to file](https://github.com/Bhargavi-ng/bi
 ![Bike Utilization - Number of Rides](https://github.com/Bhargavi-ng/bikesharing/blob/main/Resources/Bike_UT_Number_of_Rides.PNG)
 
 ### Deliverable 3: Create a story using in Tableau
+#### Key findings:
+1. Subscribers User Type forms the majority (81%) of the customers.
+2. 65% of the customers are male.
+3. Saturdays have more rides over the weekends.
+4. During Weekdays, Mornings (Work start time) and evenings (work end time) have more rides than any other time of the day.
+5. Peak trip duration is 5 minutes. And for rides in the range of 2 to 13 minutes have atleast 80k users.
+6. 99% of the rides are less than 60 minutes.
+7. Manhattan has the most start and end locations. Manhattan has both companies as well as tourist destinations. So this data doesn't help us identify if residents or tourists are major users.
+8. There are only few bikes that get rented for longer duration when compared to the number of times the bike is rented.
+
+
 #### Link to Tableau
 [Link to Tableau Story](https://public.tableau.com/app/profile/bhargavi2379/viz/Bike_Sharing_Analysis_Proposal/BikeSharingBusinessProposal)
 
