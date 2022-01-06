@@ -1,8 +1,5 @@
 # bikesharing
 
-## Link to Tableau
-[Link to Tableau Story](https://public.tableau.com/app/profile/bhargavi2379/viz/Bike_Sharing_Analysis_Proposal/BikeSharingBusinessProposal)
-
 ## Overview of the analysis:
 The purpose of this project is to come up with a business proposal using Tableau to start bike rental business in Des Moines, Idaho based on the data from an existing bike rental business "Citi Bike" that is operating in New York City.
 
@@ -25,7 +22,7 @@ Complete code can be found here [Link to file](https://github.com/Bhargavi-ng/bi
 ![Checkout Times for Users](https://github.com/Bhargavi-ng/bikesharing/blob/main/Resources/Checkout_Times_for_Users.PNG)
 
 #### Checkout Times by Gender
-![Checkout Times by Gender](https://github.com/Bhargavi-ng/bikesharing/blob/main/Resources/Checkout Times by Gender.PNG)
+![Checkout Times by Gender](https://github.com/Bhargavi-ng/bikesharing/blob/main/Resources/Checkout_Times_by_Gender.PNG)
 
 #### Trips by Weekday for Each Hour
 ![Trips by Weekday for Each Hour](https://github.com/Bhargavi-ng/bikesharing/blob/main/Resources/Trips_by_Weekday_per_Hour.PNG)
@@ -34,7 +31,7 @@ Complete code can be found here [Link to file](https://github.com/Bhargavi-ng/bi
 ![Trips by Gender (Weekday per Hour)](https://github.com/Bhargavi-ng/bikesharing/blob/main/Resources/Trips_by_Gender_Weekday_per_Hour.PNG)
 
 #### User Trips by Gender by Weekday
-![User Trips by Gender by Weekday](https://github.com/Bhargavi-ng/bikesharing/blob/main/Resources/User_Trips_by_ Gender_by_Weekday.PNG)
+![User Trips by Gender by Weekday](https://github.com/Bhargavi-ng/bikesharing/blob/main/Resources/User_Trips_by_%20Gender_by_Weekday.PNG)
 
 #### Dashboard for Summary
 ![Dashboard for Summary](https://github.com/Bhargavi-ng/bikesharing/blob/main/Resources/Summary_Dashboard.PNG)
@@ -47,6 +44,10 @@ Complete code can be found here [Link to file](https://github.com/Bhargavi-ng/bi
 
 #### Bike Utilization - Number of Rides
 ![Bike Utilization - Number of Rides](https://github.com/Bhargavi-ng/bikesharing/blob/main/Resources/Bike_UT_Number_of_Rides.PNG)
+
+### Deliverable 3: Create a story using in Tableau
+#### Link to Tableau
+[Link to Tableau Story](https://public.tableau.com/app/profile/bhargavi2379/viz/Bike_Sharing_Analysis_Proposal/BikeSharingBusinessProposal)
 
 ## Summary:
 The data analysis provides good insight for the investors about the demand for bikes in New York City. There is clearly demand both during weekdays and weekends and also that subscribers form the majority of the customers. One can conclude that bikes appears to be the preferred method of transportation in New York City. 
